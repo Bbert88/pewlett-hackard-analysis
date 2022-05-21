@@ -12,7 +12,7 @@ by making a number of tables to hold all relevant data. High level queries are t
 
 ## Results & Summary
 
-Number of roles which need to be filled as the "silver Tsunami" (mass retirings) begin to take place:
+### Number of roles which need to be filled as the "silver Tsunami" (mass retirings) begin to take place:
 
 ![Unique Query](./Resources/unique_count_query.png)
 
@@ -26,7 +26,7 @@ As per the above query, 72,458 employees are eligible to retire which will trigg
 
 As per the above query, the 72,458 reitrement-eligible employees are grouped by their respective departments. 
 
-Number of qualified, retirement-ready employees in the departments to mentor onboarding employees:
+### Number of qualified, retirement-ready employees in the departments to mentor onboarding employees:
 
 ![Mentor Query](./Resources/mentor_query.png)
 
