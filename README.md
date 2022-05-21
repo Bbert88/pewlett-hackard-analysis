@@ -18,13 +18,13 @@ by making a number of tables to hold all relevant data. High level queries are t
 
 ![Unique Output](./Resources/unique_count_output.png)
 
-As per the above query, 72,458 employees are eligible to retire which will trigger the "silver tsunami"
+As per the above query, 72,458 employees are eligible to retire which will trigger the "silver tsunami".
 
 ![Unique Query Groupby](./Resources/unique_count_groupby_query.png)
 
 ![Unique Output Groupby](./Resources/unique_count_groupby_output.png)
 
-As per the above query, the 72,458 reitrement-eligible employees are grouped by their respective departments. 
+As per the above query, the 72,458 reitrement-eligible employees are grouped by their respective titles. 
 
 ### Number of qualified, retirement-ready employees in the departments to mentor onboarding employees:
 
@@ -32,9 +32,9 @@ As per the above query, the 72,458 reitrement-eligible employees are grouped by 
 
 ![Mentor Output](./Resources/mentor_output.png)
 
-It is not known how many employees a single "mentor" can work with, but it is clear that more mentors will be needed. 1,549 mentors for 72,458 retiring employees does not seem sufficient.
+It is not known how many employees a single "mentor" can work with, but it is clear that more mentors will be needed. 1,549 mentors for 72,458 positions opening up does not seem sufficient.
 
-Four key takeaways:
+### Four key takeaways:
 
  1. There is a very large amount of employees nearing retirement (approx. 72,458).
 
